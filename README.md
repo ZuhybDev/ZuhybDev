@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zuhaib</h1>
-<h3 align="center">A passionate fullstack developer from Somaliland</h3>
+<h3 align="center">A Passionate fullstack web/App developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhybdev&label=Profile%20views&color=0e75b6&style=flat" alt="zuhybdev" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Nest.js**
+- 🌱 I’m currently learning 
 
-- 💬 Ask me about **React, nestjs,**
+- 💬 Ask me about **React,Nextjs and nestjs,**
 
 - 📫 How to reach me **zuhaibmaxamed@gmail.com**
 
