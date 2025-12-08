@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning 
 
-- 💬 Ask me about **React,Nextjs and nestjs,**
+- 💬 Ask me about **React,Nextjs, nestjs and Golang**
 
-- 📫 How to reach me **zuhaibmaxamed@gmail.com**
+- 📫 How to reach me **zuhaibmaxamed2@gmail.com**
 
 - ⚡ Fun fact **I think im funny**
 
