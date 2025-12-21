@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zuhaib Mohammed</h1>
-<h3 align="center">A passionate fullstack Web/App developer from Somaliland</h3>
+<h3 align="center">Pre-university software developer building real-world applications with JavaScript, Node.js, Go, and modern web tools.</h3>
 
 - 💬 Ask me about **React, reactNative, Golang**
 
